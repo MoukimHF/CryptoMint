@@ -30,7 +30,7 @@ function Slider() {
                   <div className="team team-s1 team-odd">
                     <div className="team-photo team-photo-s3">
                       <img
-                        src="/assets/BaycImages/etc/1.png"
+                        src="images\new/1.jpg"
                         alt="ETCBayc #0"
                       />
                       <a
@@ -92,7 +92,7 @@ function Slider() {
                           <div data-v-1e5eda20 className="vci-container">
                             <img
                               data-v-1e5eda20
-                              src="/assets/BaycImages/etc/1.png"
+                              src="/images/new/1.jpg"
                               className="left-image"
                               alt="ETCBayc #0"
                               style={{ clip: "rect(auto, 203px, auto, auto)" }}
@@ -104,7 +104,7 @@ function Slider() {
                             />
                             <img
                               data-v-1e5eda20
-                              src="/assets/BaycImages/ext/1.png"
+                              src="/images/new/1.jpg"
                               className="right-image"
                               alt="ETCBayc #0"
                             />
@@ -289,7 +289,7 @@ function Slider() {
                   <div className="team team-s1 team-even">
                     <div className="team-photo team-photo-s3">
                       <img
-                        src="/assets/BaycImages/etc/150.png"
+                        src="/images/new/3.jpg"
                         alt="ETCBayc #150"
                       />
                       <a
@@ -549,7 +549,7 @@ function Slider() {
                   <div className="team team-s1 team-odd">
                     <div className="team-photo team-photo-s3">
                       <img
-                        src="/assets/BaycImages/etc/2500.png"
+                        src="/images/new/4.jpg"
                         alt="ETCBayc #2500"
                       />
                       <a
@@ -810,7 +810,7 @@ function Slider() {
                   <div className="team team-s1 team-even">
                     <div className="team-photo team-photo-s3">
                       <img
-                        src="/assets/BaycImages/etc/4585.png"
+                        src="/images/new/5.jpg"
                         alt="ETCBayc #4585"
                       />
                       <a
@@ -1069,7 +1069,7 @@ function Slider() {
                   <div className="team team-s1 team-odd">
                     <div className="team-photo team-photo-s3">
                       <img
-                        src="/assets/BaycImages/etc/6890.png"
+                        src="/images/new/5.jpg"
                         alt="ETCBayc #6890"
                       />
                       <a

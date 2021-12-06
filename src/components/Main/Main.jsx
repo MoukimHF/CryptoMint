@@ -15,10 +15,17 @@ function Main() {
                 <div className="col-sm-11 col-xl-11 col-xxl-8">
                   <p className="lead">
                     After the success of
-                    <a target="_blank" rel="noreferrer" href="https://boredapeyachtclub.com/#/">Orginal Bayc Ethereum</a>
+                    <a target="_blank" rel="noreferrer" href="https://boredapeyachtclub.com/#/"> Orginal Bayc Ethereum</a>
                     and BAYCTron. ETCBayc are now on Ethereum Classic! Don't
                     miss the chance to own them
                   </p>
+                  <a
+                      target="_blank"
+                      rel="noreferrer"
+                      class="btn mint_now text-sm md:text-xl font-light text-center px-2 py-4 md:px-8 md:py-6 rounded uppercase"
+                    >
+                      Mint
+                    </a>
                   <p>
                     ETCBAYC is among the first high-quality art projects on
                     etc still nascent NFT landscape
@@ -28,16 +35,13 @@ function Main() {
                       <ul className="btn-grp mx-auto">
                         <ul className="cpn-links">
                           <li>
-                            <a target="_blank" rel="noreferrer" href="https://t.me/etcbayc"><em className="fab fa-telegram fa-2x" /></a>
+                            <a target="_blank" rel="noreferrer" href="https://www.instagram.com/alii.essa/"><em className="fab fa-instagram fa-2x" /></a>
                           </li>
                           <li>
-                            <a target="_blank" rel="noreferrer" href="https://twitter.com/etcbayc"><em className="fab fa-twitter fa-2x" /></a>
+                            <a target="_blank" rel="noreferrer" href="https://twitter.com/ali22essa"><em className="fab fa-twitter fa-2x" /></a>
                           </li>
                           <li>
-                            <a target="_blank" rel="noreferrer" href="https://discord.gg/Hg3WH7Nxxq"><em className="fab fa-discord fa-2x" /></a>
-                          </li>
-                          <li>
-                            <a target="_blank" rel="noreferrer" href="https://medium.com/@etcbayc"><em className="fab fa-medium-m fa-2x" /></a>
+                            <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/ali-m-essa-9b7165223"><em className="fab fa-linkedin fa-2x" /></a>
                           </li>
                         </ul>
                       </ul>
@@ -99,8 +103,8 @@ function Main() {
       bg-image
       overlay overlay-theme overlay-opacity-85
       bg-image-loaded
-    " style={{backgroundImage: 'url("/images/bg/multi-apes.jpg")'}}>
-          <img src="/images/bg/multi-apes.jpg" alt="" />
+    " style={{backgroundImage: 'url("/images/bg/multi.png")'}}>
+          <img src="/images/bg/multi.png" alt="" />
         </div>
         <div className="nk-block nk-block-actions">
           <div className="container container-xxl">
@@ -126,16 +130,13 @@ function Main() {
               justify-content-center justify-content-sm-end
             ">
                   <li>
-                    <a target="_blank" rel="noreferrer" href="https://t.me/etcbayc"><em className="fab fa-telegram" /></a>
+                    <a target="_blank" rel="noreferrer" href="https://www.instagram.com/alii.essa/"><em className="fab fa-instagram" /></a>
                   </li>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="https://twitter.com/etcbayc"><em className="fab fa-twitter" /></a>
+                    <a target="_blank" rel="noreferrer" href="https://twitter.com/ali22essa "><em className="fab fa-twitter" /></a>
                   </li>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="https://discord.gg/Hg3WH7Nxxq"><em className="fab fa-discord" /></a>
-                  </li>
-                  <li>
-                    <a target="_blank" rel="noreferrer" href="https://medium.com/@etcbayc"><em className="fab fa-medium-m" /></a>
+                    <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/ali-m-essa-9b7165223"><em className="fab fa-linkedin" /></a>
                   </li>
                 </ul>
               </div>

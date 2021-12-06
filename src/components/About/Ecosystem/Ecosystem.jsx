@@ -10,7 +10,7 @@ function Ecosystem() {
               <h2
                 data-delay="0.1"
                 title="Core Ecosystems"
-                className="title title-xl"
+                className="title title-xl roadmap__gelato"
               >
                 ECOSYSTEMS
               </h2>

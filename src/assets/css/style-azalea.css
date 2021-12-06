@@ -60,7 +60,10 @@
     font-weight: 300;
     font-style: normal;
 }
-
+@font-face {
+    font-family: gelatoFunFont;
+    src: url(../fonts/Gelato.5fd4bccb.ttf)
+}
 @font-face {
     font-family: 'Roboto';
     src: url("../fonts/Roboto-Regular.eot");
@@ -19872,6 +19875,68 @@ hr+.nk-block {
 
 /* END @iO */
 
-
-
+.mint_now{
+    font-size: 1.25rem;
+    font-family: gelatoFunFont;
+    line-height: 1.75rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    background-color: #9337fb;
+    min-width: 200px;
+    display: inline-block;
+    margin-top: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    white-space: nowrap;
+    text-transform: uppercase;
+    font-weight: 300;
+    text-align: center;
+    border-radius: 0.25rem;
+    color: inherit;
+    text-decoration: inherit;
+    border: none;
+    color: #fff !important;
+}
+.Landing__hero-inner {
+    /* max-width: 1200px; */
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+}
+video {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+}
+.Landing__hero-video {
+    position: relative;
+}
+#roadmapComponent {
+    height: 80%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    align-items: center;
+    background-color: #000;
+    font-family: gelatoFunFont;
+    color: #fff;
+    font-weight: 700;
+}
+#roadmapCompTitle {
+    font-size: 7em;
+    color: #ff006a;
+    font-family: gelatoFunFont;
+    border-bottom: 2px solid #fff;
+}
+.roadmap__gelato{
+    font-family: gelatoFunFont;
+    font-size: 7em;
+    /* color: #ff006a !important; */
+    border-bottom: 2px solid #fff;
+}
 .vci-container[data-v-1e5eda20]{-webkit-box-sizing:border-box;box-sizing:border-box;position:relative;width:100%;overflow:hidden}.left-image[data-v-1e5eda20]{display:block;height:100%;-o-object-fit:cover;object-fit:cover;position:absolute;top:0;width:100%}.left-label[data-v-1e5eda20]{position:absolute;top:0;left:0;padding:10px}.right-image[data-v-1e5eda20]{display:block;height:auto;width:100%}.right-label[data-v-1e5eda20]{position:absolute;top:0;right:0;padding:10px}.vci-slider[data-v-1e5eda20]{-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;height:100%;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;position:absolute;top:0}.vci-slider .line[data-v-1e5eda20]{background:#fff;-webkit-box-flex:0;-ms-flex:0 1 auto;flex:0 1 auto;height:100%}.vci-slider .handle[data-v-1e5eda20],.vci-slider .line[data-v-1e5eda20]{-webkit-box-shadow:0 3px 1px -2px rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12);box-shadow:0 3px 1px -2px rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12)}.vci-slider .handle[data-v-1e5eda20]{-webkit-box-align:center;-ms-flex-align:center;align-items:center;border-radius:100%;-webkit-box-sizing:border-box;box-sizing:border-box;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-flex:1;-ms-flex:1 0 auto;flex:1 0 auto;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.vci-slider .left-arrow[data-v-1e5eda20],.vci-slider .right-arrow[data-v-1e5eda20]{height:"0px";width:"0px"}

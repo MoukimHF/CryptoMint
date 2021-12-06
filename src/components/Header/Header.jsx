@@ -1,7 +1,7 @@
 import React from 'react'
 import Connect from './Connect'
 
-function Header() {
+function Header({roadmapScroll, faqsScroll, contactScroll}) {
     return (
         <header id="header" className="nk-header page-header is-transparent is-sticky is-dark">
         <div className="header-main">
@@ -25,16 +25,16 @@ function Header() {
                     ">Home</a>
                     </li>
                     <li className="menu-item">
-                      <a href="/gallery" className="menu-link nav-link page-scroll">All Bored Apes</a>
+                      <a href="/" className="menu-link nav-link page-scroll">All Bored Apes</a>
                     </li>
                     <li className="menu-item">
-                      <a href="/#roadmap" className="menu-link nav-link page-scroll">Roadmap</a>
+                      <a type="button" onClick={roadmapScroll} className="menu-link nav-link page-scroll">Roadmap</a>
                     </li>
                     <li className="menu-item">
-                      <a href="/#faqs" className="menu-link nav-link page-scroll">FAQs ?</a>
+                      <a type="button" onClick={faqsScroll} className="menu-link nav-link page-scroll">FAQs ?</a>
                     </li>
                     <li className="menu-item">
-                      <a href="/#contact" className="menu-link nav-link page-scroll">Contact</a>
+                      <a type="button" onClick={contactScroll} className="menu-link nav-link page-scroll">Contact</a>
                     </li>
                   </ul>
                   <ul className="menu-btns">
