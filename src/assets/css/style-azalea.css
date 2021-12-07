@@ -19931,7 +19931,7 @@ video {
 
 #roadmapCompTitle {
     font-size: 7em;
-    color: rgb(51, 255, 153);
+    /* color: rgb(51, 255, 153); */
     border-bottom: 2px solid #fff;
 }
 .roadmapTextContainer {
