@@ -20,9 +20,11 @@ function Contact({contactRef}) {
                     <p data-delay="0.8">
                     Our founder is Ali Essa, a young college student that is extremely passionate about Ethereum Classic, He is of Egyptian descent and currently resides in the United States he has always been interested in CryptoCurrency and NFTS and most importantly $ETC, he is currently working as an operations manager for multiple businesses and he is planning to pursue a degree in Software engineering due to his extreme interest in software 
                     </p>
-                    <h3 className="text-white">Contract Address</h3>
-                    <a target="_blank" rel="noreferrer" href="https://blockscout.com/etc/mainnet/address/0x59E34EF31049565D041Aec6137F40f518c2D47c1/contracts"><strong>0x59E34EF31049565D041Aec6137F40f518c2D47c1</strong></a>
-                    <a style={{cursor: 'pointer'}}><em className="contact-icon fas fa-copy" /></a>
+                    {/* <h3 className="text-white">Contract Address</h3>
+                    <a target="_blank" rel="noreferrer" href="https://blockscout.com/etc/mainnet/address/0x59E34EF31049565D041Aec6137F40f518c2D47c1/contracts"><strong>
+                    0x59E34EF31049565D041Aec6137F40f518c2D47c1
+                      </strong></a>
+                    <a style={{cursor: 'pointer'}}><em className="contact-icon fas fa-copy" /></a> */}
                   </div>
                 </div>
                 <div className="nk-block-text">
@@ -48,7 +50,7 @@ function Contact({contactRef}) {
                     <li data-delay="0.3">
                       <em className="contact-icon fas fa-envelope" />
                       <div className="contact-text">
-                        <span>info@etcbayc.com</span>
+                        <span>info@Classic Pharaohs .com</span>
                       </div>
                     </li>
                     <a target="_blank" rel="noreferrer" href="https://www.instagram.com/alii.essa/"><li data-delay="0.4">

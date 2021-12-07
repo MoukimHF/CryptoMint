@@ -4,10 +4,10 @@ function Roadmap2() {
   return (
     <div id="roadmapComponent">
       <h1 id="roadmapCompTitle">RoadMap</h1>
-      <div>
+      <div >
         <div className="container">
           <div className="row">
-            <div data-aos="fade-down-right">
+            <div style={{width:"100%",maxWidth:"100%"}}>
               <div className="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                 <div className="roadmapTextContainer">
                   <h2 className="roadmapTitle">Presale</h2>
@@ -19,7 +19,7 @@ function Roadmap2() {
                 </div>
               </div>{" "}
             </div>
-            <div data-aos="fade-up-left">
+            <div style={{width:"100%",maxWidth:"100%"}}>
               <div className="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                 <div className="roadmapTextContainer">
                   <h2 className="roadmapTitle">Launch day</h2>
@@ -32,7 +32,7 @@ function Roadmap2() {
                 </div>
               </div>{" "}
             </div>
-            <div data-aos="fade-up-right">
+            <div style={{width:"100%",maxWidth:"100%"}}>
               <div className="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                 <div className="roadmapTextContainer">
                   <h2 className="roadmapTitle">Videogame drop</h2>
@@ -46,7 +46,7 @@ function Roadmap2() {
                 </div>
               </div>{" "}
             </div>
-            <div data-aos="fade-up-left">
+            <div style={{width:"100%",maxWidth:"100%"}}>
               <div className="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                 <div className="roadmapTextContainer">
                   <h2 className="roadmapTitle">Animated short films</h2>
@@ -66,34 +66,7 @@ function Roadmap2() {
                 </div>
               </div>
             </div>
-            <div data-aos="zoom-in-up">
-              <div className="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                <div className="roadmapTextContainer">
-                  <h2 className="roadmapTitle"> TESLA GIVEAWAY!!!!!</h2>
-                  <div className="roadmapText">
-                    <p>
-                      {" "}
-                      That’s right! At 100% We will be giving away a Tesla!
-                    </p>
-                    <h3>Follow us on:</h3>
-                    <button type="button" className="roadmapBtn btn btn-warning">
-                      <a
-                        className="roadmapLinkButton"
-                        href="https://twitter.com/llamadramaclub"
-                      >
-                        Twitter
-                      </a>
-                    </button>{" "}
-                    <button type="button" className="roadmapBtn btn btn-warning">
-                      Facebook
-                    </button>{" "}
-                    <button type="button" className="roadmapBtn btn btn-warning">
-                      Instagram
-                    </button>{" "}
-                  </div>
-                </div>
-              </div>{" "}
-            </div>
+        
           </div>{" "}
         </div>
       </div>

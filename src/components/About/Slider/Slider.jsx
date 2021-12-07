@@ -31,7 +31,7 @@ function Slider() {
                     <div className="team-photo team-photo-s3">
                       <img
                         src="images\new/1.jpg"
-                        alt="ETCBayc #0"
+                        alt="Classic Pharaohs #0"
                       />
                       <a
                         href="#team-popup-1"
@@ -39,13 +39,13 @@ function Slider() {
                       />
                     </div>
                     <h5 className="team-name title title-md"># 1</h5>
-                    <span className="team-position">ETCBayc</span>
+                    <span className="team-position">Classic Pharaohs </span>
                     <ul className="team-social team-social-s2">
                       <li>
                         <a
                           target="_blank"
                           rel="noreferrer"
-                          href="https://t.me/etcbayc"
+                          href="https://t.me/Classic Pharaohs "
                         >
                           <em className="fab fa-telegram" />
                         </a>
@@ -54,7 +54,7 @@ function Slider() {
                         <a
                           target="_blank"
                           rel="noreferrer"
-                          href="https://twitter.com/etcbayc"
+                          href="https://twitter.com/Classic Pharaohs "
                         >
                           <em className="fab fa-twitter" />
                         </a>
@@ -72,7 +72,7 @@ function Slider() {
                         <a
                           target="_blank"
                           rel="noreferrer"
-                          href="https://medium.com/@etcbayc"
+                          href="https://medium.com/@Classic Pharaohs "
                         >
                           <em className="fab fa-medium-m" />
                         </a>
@@ -94,7 +94,7 @@ function Slider() {
                               data-v-1e5eda20
                               src="/images/new/1.jpg"
                               className="left-image"
-                              alt="ETCBayc #0"
+                              alt="Classic Pharaohs #0"
                               style={{ clip: "rect(auto, 203px, auto, auto)" }}
                             />
                             <div
@@ -106,7 +106,7 @@ function Slider() {
                               data-v-1e5eda20
                               src="/images/new/1.jpg"
                               className="right-image"
-                              alt="ETCBayc #0"
+                              alt="Classic Pharaohs #0"
                             />
                             <div data-v-1e5eda20 className="right-label" />
                             <div
@@ -228,13 +228,13 @@ function Slider() {
                       <div className="col-md-6">
                         <div className="team-popup-info pl-md-3">
                           <h3 className="team-name title title-lg pt-4"># 1</h3>
-                          <p className="team-position">ETCBayc</p>
+                          <p className="team-position">Classic Pharaohs </p>
                           <ul className="team-social team-social-s2 mb-4">
                             <li>
                               <a
                                 target="_blank"
                                 rel="noreferrer"
-                                href="https://t.me/etcbayc"
+                                href="https://t.me/Classic Pharaohs "
                               >
                                 <em className="fab fa-telegram" />
                               </a>
@@ -243,7 +243,7 @@ function Slider() {
                               <a
                                 target="_blank"
                                 rel="noreferrer"
-                                href="https://twitter.com/etcbayc"
+                                href="https://twitter.com/Classic Pharaohs "
                               >
                                 <em className="fab fa-twitter" />
                               </a>
@@ -261,7 +261,7 @@ function Slider() {
                               <a
                                 target="_blank"
                                 rel="noreferrer"
-                                href="https://medium.com/@etcbayc"
+                                href="https://medium.com/@Classic Pharaohs "
                               >
                                 <em className="fab fa-medium-m" />
                               </a>
@@ -290,7 +290,7 @@ function Slider() {
                     <div className="team-photo team-photo-s3">
                       <img
                         src="/images/new/3.jpg"
-                        alt="ETCBayc #150"
+                        alt="Classic Pharaohs #150"
                       />
                       <a
                         href="#team-popup-2"
@@ -298,13 +298,13 @@ function Slider() {
                       />
                     </div>
                     <h5 className="team-name title title-md"># 150</h5>
-                    <span className="team-position">ETCBayc</span>
+                    <span className="team-position">Classic Pharaohs </span>
                     <ul className="team-social team-social-s2">
                       <li>
                         <a
                           target="_blank"
                           rel="noreferrer"
-                          href="https://t.me/etcbayc"
+                          href="https://t.me/Classic Pharaohs "
                         >
                           <em className="fab fa-telegram" />
                         </a>
@@ -313,7 +313,7 @@ function Slider() {
                         <a
                           target="_blank"
                           rel="noreferrer"
-                          href="https://twitter.com/etcbayc"
+                          href="https://twitter.com/Classic Pharaohs "
                         >
                           <em className="fab fa-twitter" />
                         </a>
@@ -331,7 +331,7 @@ function Slider() {
                         <a
                           target="_blank"
                           rel="noreferrer"
-                          href="https://medium.com/@etcbayc"
+                          href="https://medium.com/@Classic Pharaohs "
                         >
                           <em className="fab fa-medium-m" />
                         </a>
@@ -364,7 +364,7 @@ function Slider() {
                               data-v-1e5eda20
                               src="/assets/BaycImages/ext/150.png"
                               className="right-image"
-                              alt="ETCBayc #150"
+                              alt="Classic Pharaohs #150"
                             />
                             <div data-v-1e5eda20 className="right-label" />
                             <div
@@ -488,13 +488,13 @@ function Slider() {
                           <h3 className="team-name title title-lg pt-4">
                             # 150
                           </h3>
-                          <p className="team-position">ETCBayc</p>
+                          <p className="team-position">Classic Pharaohs </p>
                           <ul className="team-social team-social-s2 mb-4">
                             <li>
                               <a
                                 target="_blank"
                                 rel="noreferrer"
-                                href="https://t.me/etcbayc"
+                                href="https://t.me/Classic Pharaohs "
                               >
                                 <em className="fab fa-telegram" />
                               </a>
@@ -503,7 +503,7 @@ function Slider() {
                               <a
                                 target="_blank"
                                 rel="noreferrer"
-                                href="https://twitter.com/etcbayc"
+                                href="https://twitter.com/Classic Pharaohs "
                               >
                                 <em className="fab fa-twitter" />
                               </a>
@@ -521,7 +521,7 @@ function Slider() {
                               <a
                                 target="_blank"
                                 rel="noreferrer"
-                                href="https://medium.com/@etcbayc"
+                                href="https://medium.com/@Classic Pharaohs "
                               >
                                 <em className="fab fa-medium-m" />
                               </a>
@@ -550,7 +550,7 @@ function Slider() {
                     <div className="team-photo team-photo-s3">
                       <img
                         src="/images/new/4.jpg"
-                        alt="ETCBayc #2500"
+                        alt="Classic Pharaohs #2500"
                       />
                       <a
                         href="#team-popup-3"
@@ -558,13 +558,13 @@ function Slider() {
                       />
                     </div>
                     <h5 className="team-name title title-md"># 2500</h5>
-                    <span className="team-position">ETCBayc</span>
+                    <span className="team-position">Classic Pharaohs </span>
                     <ul className="team-social team-social-s2">
                       <li>
                         <a
                           target="_blank"
                           rel="noreferrer"
-                          href="https://t.me/etcbayc"
+                          href="https://t.me/Classic Pharaohs "
                         >
                           <em className="fab fa-telegram" />
                         </a>
@@ -573,7 +573,7 @@ function Slider() {
                         <a
                           target="_blank"
                           rel="noreferrer"
-                          href="https://twitter.com/etcbayc"
+                          href="https://twitter.com/Classic Pharaohs "
                         >
                           <em className="fab fa-twitter" />
                         </a>
@@ -591,7 +591,7 @@ function Slider() {
                         <a
                           target="_blank"
                           rel="noreferrer"
-                          href="https://medium.com/@etcbayc"
+                          href="https://medium.com/@Classic Pharaohs "
                         >
                           <em className="fab fa-medium-m" />
                         </a>
@@ -613,7 +613,7 @@ function Slider() {
                               data-v-1e5eda20
                               src="/assets/BaycImages/etc/2500.png"
                               className="left-image"
-                              alt="ETCBayc #2500"
+                              alt="Classic Pharaohs #2500"
                               style={{ clip: "rect(auto, 203px, auto, auto)" }}
                             />
                             <div
@@ -625,7 +625,7 @@ function Slider() {
                               data-v-1e5eda20
                               src="/assets/BaycImages/ext/2500.png"
                               className="right-image"
-                              alt="ETCBayc #2500"
+                              alt="Classic Pharaohs #2500"
                             />
                             <div data-v-1e5eda20 className="right-label" />
                             <div
@@ -749,13 +749,13 @@ function Slider() {
                           <h3 className="team-name title title-lg pt-4">
                             # 2500
                           </h3>
-                          <p className="team-position">ETCBayc</p>
+                          <p className="team-position">Classic Pharaohs </p>
                           <ul className="team-social team-social-s2 mb-4">
                             <li>
                               <a
                                 target="_blank"
                                 rel="noreferrer"
-                                href="https://t.me/etcbayc"
+                                href="https://t.me/Classic Pharaohs "
                               >
                                 <em className="fab fa-telegram" />
                               </a>
@@ -764,7 +764,7 @@ function Slider() {
                               <a
                                 target="_blank"
                                 rel="noreferrer"
-                                href="https://twitter.com/etcbayc"
+                                href="https://twitter.com/Classic Pharaohs "
                               >
                                 <em className="fab fa-twitter" />
                               </a>
@@ -782,7 +782,7 @@ function Slider() {
                               <a
                                 target="_blank"
                                 rel="noreferrer"
-                                href="https://medium.com/@etcbayc"
+                                href="https://medium.com/@Classic Pharaohs "
                               >
                                 <em className="fab fa-medium-m" />
                               </a>
@@ -811,7 +811,7 @@ function Slider() {
                     <div className="team-photo team-photo-s3">
                       <img
                         src="/images/new/5.jpg"
-                        alt="ETCBayc #4585"
+                        alt="Classic Pharaohs #4585"
                       />
                       <a
                         href="#team-popup-4"
@@ -819,13 +819,13 @@ function Slider() {
                       />
                     </div>
                     <h5 className="team-name title title-md"># 4585</h5>
-                    <span className="team-position">ETCBayc</span>
+                    <span className="team-position">Classic Pharaohs </span>
                     <ul className="team-social team-social-s2">
                       <li>
                         <a
                           target="_blank"
                           rel="noreferrer"
-                          href="https://t.me/etcbayc"
+                          href="https://t.me/Classic Pharaohs "
                         >
                           <em className="fab fa-telegram" />
                         </a>
@@ -834,7 +834,7 @@ function Slider() {
                         <a
                           target="_blank"
                           rel="noreferrer"
-                          href="https://twitter.com/etcbayc"
+                          href="https://twitter.com/Classic Pharaohs "
                         >
                           <em className="fab fa-twitter" />
                         </a>
@@ -852,7 +852,7 @@ function Slider() {
                         <a
                           target="_blank"
                           rel="noreferrer"
-                          href="https://medium.com/@etcbayc"
+                          href="https://medium.com/@Classic Pharaohs "
                         >
                           <em className="fab fa-medium-m" />
                         </a>
@@ -1008,13 +1008,13 @@ function Slider() {
                           <h3 className="team-name title title-lg pt-4">
                             # 4585
                           </h3>
-                          <p className="team-position">ETCBayc</p>
+                          <p className="team-position">Classic Pharaohs </p>
                           <ul className="team-social team-social-s2 mb-4">
                             <li>
                               <a
                                 target="_blank"
                                 rel="noreferrer"
-                                href="https://t.me/etcbayc"
+                                href="https://t.me/Classic Pharaohs "
                               >
                                 <em className="fab fa-telegram" />
                               </a>
@@ -1023,7 +1023,7 @@ function Slider() {
                               <a
                                 target="_blank"
                                 rel="noreferrer"
-                                href="https://twitter.com/etcbayc"
+                                href="https://twitter.com/Classic Pharaohs "
                               >
                                 <em className="fab fa-twitter" />
                               </a>
@@ -1041,7 +1041,7 @@ function Slider() {
                               <a
                                 target="_blank"
                                 rel="noreferrer"
-                                href="https://medium.com/@etcbayc"
+                                href="https://medium.com/@Classic Pharaohs "
                               >
                                 <em className="fab fa-medium-m" />
                               </a>
@@ -1070,7 +1070,7 @@ function Slider() {
                     <div className="team-photo team-photo-s3">
                       <img
                         src="/images/new/5.jpg"
-                        alt="ETCBayc #6890"
+                        alt="Classic Pharaohs #6890"
                       />
                       <a
                         href="#team-popup-5"
@@ -1078,13 +1078,13 @@ function Slider() {
                       />
                     </div>
                     <h5 className="team-name title title-md"># 6890</h5>
-                    <span className="team-position">ETCBayc</span>
+                    <span className="team-position">Classic Pharaohs </span>
                     <ul className="team-social team-social-s2">
                       <li>
                         <a
                           target="_blank"
                           rel="noreferrer"
-                          href="https://t.me/etcbayc"
+                          href="https://t.me/Classic Pharaohs "
                         >
                           <em className="fab fa-telegram" />
                         </a>
@@ -1093,7 +1093,7 @@ function Slider() {
                         <a
                           target="_blank"
                           rel="noreferrer"
-                          href="https://twitter.com/etcbayc"
+                          href="https://twitter.com/Classic Pharaohs "
                         >
                           <em className="fab fa-twitter" />
                         </a>
@@ -1111,7 +1111,7 @@ function Slider() {
                         <a
                           target="_blank"
                           rel="noreferrer"
-                          href="https://medium.com/@etcbayc"
+                          href="https://medium.com/@Classic Pharaohs "
                         >
                           <em className="fab fa-medium-m" />
                         </a>
@@ -1133,7 +1133,7 @@ function Slider() {
                               data-v-1e5eda20
                               src="/assets/BaycImages/etc/6890.png"
                               className="left-image"
-                              alt="ETCBayc #6890"
+                              alt="Classic Pharaohs #6890"
                               style={{ clip: "rect(auto, 203px, auto, auto)" }}
                             />
                             <div
@@ -1145,7 +1145,7 @@ function Slider() {
                               data-v-1e5eda20
                               src="/assets/BaycImages/ext/6890.png"
                               className="right-image"
-                              alt="ETCBayc #6890"
+                              alt="Classic Pharaohs #6890"
                             />
                             <div data-v-1e5eda20 className="right-label" />
                             <div
@@ -1269,13 +1269,13 @@ function Slider() {
                           <h3 className="team-name title title-lg pt-4">
                             # 6890
                           </h3>
-                          <p className="team-position">ETCBayc</p>
+                          <p className="team-position">Classic Pharaohs </p>
                           <ul className="team-social team-social-s2 mb-4">
                             <li>
                               <a
                                 target="_blank"
                                 rel="noreferrer"
-                                href="https://t.me/etcbayc"
+                                href="https://t.me/Classic Pharaohs "
                               >
                                 <em className="fab fa-telegram" />
                               </a>
@@ -1284,7 +1284,7 @@ function Slider() {
                               <a
                                 target="_blank"
                                 rel="noreferrer"
-                                href="https://twitter.com/etcbayc"
+                                href="https://twitter.com/Classic Pharaohs "
                               >
                                 <em className="fab fa-twitter" />
                               </a>
@@ -1302,7 +1302,7 @@ function Slider() {
                               <a
                                 target="_blank"
                                 rel="noreferrer"
-                                href="https://medium.com/@etcbayc"
+                                href="https://medium.com/@Classic Pharaohs "
                               >
                                 <em className="fab fa-medium-m" />
                               </a>
@@ -1331,7 +1331,7 @@ function Slider() {
                     <div className="team-photo team-photo-s3">
                       <img
                         src="/assets/BaycImages/etc/7325.png"
-                        alt="ETCBayc #7325"
+                        alt="Classic Pharaohs #7325"
                       />
                       <a
                         href="#team-popup-6"
@@ -1339,13 +1339,13 @@ function Slider() {
                       />
                     </div>
                     <h5 className="team-name title title-md"># 7325</h5>
-                    <span className="team-position">ETCBayc</span>
+                    <span className="team-position">Classic Pharaohs </span>
                     <ul className="team-social team-social-s2">
                       <li>
                         <a
                           target="_blank"
                           rel="noreferrer"
-                          href="https://t.me/etcbayc"
+                          href="https://t.me/Classic Pharaohs "
                         >
                           <em className="fab fa-telegram" />
                         </a>
@@ -1354,7 +1354,7 @@ function Slider() {
                         <a
                           target="_blank"
                           rel="noreferrer"
-                          href="https://twitter.com/etcbayc"
+                          href="https://twitter.com/Classic Pharaohs "
                         >
                           <em className="fab fa-twitter" />
                         </a>
@@ -1372,7 +1372,7 @@ function Slider() {
                         <a
                           target="_blank"
                           rel="noreferrer"
-                          href="https://medium.com/@etcbayc"
+                          href="https://medium.com/@Classic Pharaohs "
                         >
                           <em className="fab fa-medium-m" />
                         </a>
@@ -1394,7 +1394,7 @@ function Slider() {
                               data-v-1e5eda20
                               src="/assets/BaycImages/etc/7325.png"
                               className="left-image"
-                              alt="ETCBayc #7325"
+                              alt="Classic Pharaohs #7325"
                               style={{ clip: "rect(auto, 203px, auto, auto)" }}
                             />
                             <div
@@ -1529,13 +1529,13 @@ function Slider() {
                           <h3 className="team-name title title-lg pt-4">
                             # 7325
                           </h3>
-                          <p className="team-position">ETCBayc</p>
+                          <p className="team-position">Classic Pharaohs </p>
                           <ul className="team-social team-social-s2 mb-4">
                             <li>
                               <a
                                 target="_blank"
                                 rel="noreferrer"
-                                href="https://t.me/etcbayc"
+                                href="https://t.me/Classic Pharaohs "
                               >
                                 <em className="fab fa-telegram" />
                               </a>
@@ -1544,7 +1544,7 @@ function Slider() {
                               <a
                                 target="_blank"
                                 rel="noreferrer"
-                                href="https://twitter.com/etcbayc"
+                                href="https://twitter.com/Classic Pharaohs "
                               >
                                 <em className="fab fa-twitter" />
                               </a>
@@ -1562,7 +1562,7 @@ function Slider() {
                               <a
                                 target="_blank"
                                 rel="noreferrer"
-                                href="https://medium.com/@etcbayc"
+                                href="https://medium.com/@Classic Pharaohs "
                               >
                                 <em className="fab fa-medium-m" />
                               </a>

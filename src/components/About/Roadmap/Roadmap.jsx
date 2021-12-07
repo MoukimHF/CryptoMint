@@ -65,7 +65,7 @@ function Roadmap({roadmapRef}) {
                       <span className="roadmap-time roadmap-time-s5">#3</span>
                     </div>
                     <p>
-                      Build ETCBayc community by launching Discord, Twitter,
+                      Build Classic Pharaohs community by launching Discord, Twitter,
                       Telegram and Medium. Start gathering the community.
                     </p>
                   </div>
@@ -97,7 +97,7 @@ function Roadmap({roadmapRef}) {
                     <div className="roadmap-head roadmap-head-s5">
                       <span className="roadmap-time roadmap-time-s5">#6</span>
                     </div>
-                    <p>All ETCBaycs sold out!</p>
+                    <p>All Classic Pharaohs s sold out!</p>
                   </div>
                 </div>
                 <div className="roadmap roadmap-s5 roadmap-right">

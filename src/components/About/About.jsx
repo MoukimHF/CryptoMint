@@ -4,6 +4,7 @@ import Roadmap from "./Roadmap";
 import Faqs from "./Faqs";
 import Contact from "./Contact";
 import Ecosystem from "./Ecosystem";
+import Founder from "./Founder";
 function About({roadmapRef,faqsRef,contactRef}) {
   return (
     <main className="nk-pages tc-light">
@@ -82,7 +83,7 @@ function About({roadmapRef,faqsRef,contactRef}) {
         </div>
         <Slider />
       </section>
-      <Ecosystem />
+      <Founder />
       <Roadmap roadmapRef={roadmapRef} />
       <Faqs faqsRef={faqsRef} />
       <Contact contactRef={contactRef} />

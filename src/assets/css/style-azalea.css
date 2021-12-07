@@ -61,7 +61,6 @@
     font-style: normal;
 }
 @font-face {
-    font-family: gelatoFunFont;
     src: url(../fonts/Gelato.5fd4bccb.ttf)
 }
 @font-face {
@@ -1422,13 +1421,13 @@ h6,
 
 .tc-light p,
 .tc-light .list {
-    color: #97afd5;
+    color: #fff;
 }
 
 .tc-light .lead,
 .tc-light .lead-light,
 .tc-light .lead-s2 {
-    color: #97afd5;
+    color: #fff;
 }
 
 .tc-light-alt a:not(.btn):not([class*="link-"]) {
@@ -11001,7 +11000,7 @@ hr+.nk-block {
 }
 
 .cpn-text p {
-    color: inherit !important;
+    /* color: inherit !important; */
     font-size: inherit !important;
 }
 
@@ -11546,7 +11545,7 @@ hr+.nk-block {
 }
 
 .tc-light .section-head p {
-    color: #97afd5;
+    color: #fff;
 }
 
 .section-head.tc-light p {
@@ -19877,7 +19876,6 @@ hr+.nk-block {
 
 .mint_now{
     font-size: 1.25rem;
-    font-family: gelatoFunFont;
     line-height: 1.75rem;
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
@@ -19923,20 +19921,57 @@ video {
     color: white;
     align-items: center;
     background-color: #000;
-    font-family: gelatoFunFont;
+    background: url(../images/bg.jpg);
     color: #fff;
     font-weight: 700;
 }
+.nk-pages{
+    background: url(../images/bg.jpg)
+}
+
 #roadmapCompTitle {
     font-size: 7em;
-    color: #ff006a;
-    font-family: gelatoFunFont;
+    color: rgb(51, 255, 153);
     border-bottom: 2px solid #fff;
 }
+.roadmapTextContainer {
+    margin-bottom: 3em;
+    margin-top: 3em;
+    background-color: #161314;
+    padding: 1em;
+}
+.roadmapTitle {
+    margin-bottom: 15px;
+    color: rgb(51, 255, 153) !important;
+    font-size: 5em;
+    font-weight: 400;
+}
+.roadmapText {
+    font-weight: 400;
+    color: #fff !important;
+}
 .roadmap__gelato{
-    font-family: gelatoFunFont;
     font-size: 7em;
     /* color: #ff006a !important; */
     border-bottom: 2px solid #fff;
+}
+.CountDown__timer, .FrequentlyAsked__question {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+@media (min-width: 1024px)
+{
+    .lg\:text-9xl {
+        font-size: 8rem;
+        line-height: 1;
+    }
+}
+
+@media (min-width: 768px){
+    .md\:text-8xl {
+        font-size: 6rem;
+        line-height: 1;
+    }
 }
 .vci-container[data-v-1e5eda20]{-webkit-box-sizing:border-box;box-sizing:border-box;position:relative;width:100%;overflow:hidden}.left-image[data-v-1e5eda20]{display:block;height:100%;-o-object-fit:cover;object-fit:cover;position:absolute;top:0;width:100%}.left-label[data-v-1e5eda20]{position:absolute;top:0;left:0;padding:10px}.right-image[data-v-1e5eda20]{display:block;height:auto;width:100%}.right-label[data-v-1e5eda20]{position:absolute;top:0;right:0;padding:10px}.vci-slider[data-v-1e5eda20]{-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;height:100%;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;position:absolute;top:0}.vci-slider .line[data-v-1e5eda20]{background:#fff;-webkit-box-flex:0;-ms-flex:0 1 auto;flex:0 1 auto;height:100%}.vci-slider .handle[data-v-1e5eda20],.vci-slider .line[data-v-1e5eda20]{-webkit-box-shadow:0 3px 1px -2px rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12);box-shadow:0 3px 1px -2px rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12)}.vci-slider .handle[data-v-1e5eda20]{-webkit-box-align:center;-ms-flex-align:center;align-items:center;border-radius:100%;-webkit-box-sizing:border-box;box-sizing:border-box;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-flex:1;-ms-flex:1 0 auto;flex:1 0 auto;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.vci-slider .left-arrow[data-v-1e5eda20],.vci-slider .right-arrow[data-v-1e5eda20]{height:"0px";width:"0px"}
