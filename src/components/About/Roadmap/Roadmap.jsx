@@ -1,4 +1,5 @@
 import React from "react";
+import AnimatedText from "../../AnimatedText";
 
 function Roadmap({roadmapRef}) {
   return (
@@ -12,7 +13,9 @@ function Roadmap({roadmapRef}) {
                 title="Roadmap Activations"
                 className="title title-xl roadmap__gelato"
               >
-                Roadmap
+                
+                <AnimatedText text="Roadmap" effect="verticalFadeIn" duration={7} />
+
               </h2>
               <p>
                 Build and design the website and program the smart contract

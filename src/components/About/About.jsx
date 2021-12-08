@@ -4,8 +4,13 @@ import Roadmap from "./Roadmap";
 import Faqs from "./Faqs";
 import Contact from "./Contact";
 import Ecosystem from "./Ecosystem";
+import Slide from 'react-reveal/Slide';
+import Fade from "react-reveal/Fade";
+
 import Founder from "./Founder";
-function About({roadmapRef,faqsRef,contactRef}) {
+import AnimatedText from "../AnimatedText/AnimatedText";
+function About({ roadmapRef, faqsRef, contactRef }) {
+
   return (
     <main className="nk-pages tc-light">
       <section id="about" className="section">
@@ -13,8 +18,11 @@ function About({roadmapRef,faqsRef,contactRef}) {
           <div className="row justify-content-center text-center">
             <div className="col-lg-6">
               <div className="section-head section-head-s2">
-                <h2 title="What and Why" className="title title-xl roadmap__gelato">
-                  ABOUT
+                <h2
+                  title="What and Why"
+                  className="title title-xl roadmap__gelato"
+                >
+                      <AnimatedText text="About" />
                 </h2>
               </div>
             </div>
@@ -45,7 +53,6 @@ function About({roadmapRef,faqsRef,contactRef}) {
                       the first unique project on the Ethereum Classic
                       Blockchain that is not found anywhere else!!
                     </p>
-                    
                   </div>
                   <ul className="btn-grp gutter-vr-20px pdt-m">
                     <li data-delay="0.7">
@@ -69,13 +76,13 @@ function About({roadmapRef,faqsRef,contactRef}) {
             <div className="col-lg-6">
               <div className="section-head section-head-s2">
                 <h2 title="Bored Ape Collection" className="title title-xl">
-                  Etc Apes
+                  <AnimatedText text="Classic Pharaohs" effect="jump" />
                 </h2>
                 <p className="animated">
-                  The Bored Ape Yacht Club (BAYC) is an Ethereum-Classic-based
-                  NFT collection of 10,000 unique Bored Apes. Each Bored Ape has
-                  a basket of traits programmatically generated from over 170
-                  traits, including expression, clothing, headware, and more.
+                  The Classic pharaos is an Ethereum-Classic-based NFT
+                  collection of 5000 unique Paharaos. Each Pharaos has a basket
+                  of traits programmatically generated from different traits,
+                  including nemes , accessories ,and more.
                 </p>
               </div>
             </div>
@@ -83,10 +90,14 @@ function About({roadmapRef,faqsRef,contactRef}) {
         </div>
         <Slider />
       </section>
+      <Slide bottom>
       <Founder />
+        </Slide>
       <Roadmap roadmapRef={roadmapRef} />
       <Faqs faqsRef={faqsRef} />
+      <Fade bottom>
       <Contact contactRef={contactRef} />
+      </Fade>
     </main>
   );
 }

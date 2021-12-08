@@ -2939,13 +2939,13 @@ h6,
     background: #000;
 }
 
-.overlay-theme:after {
+/* .overlay-theme:after {
     background: #0f1932;
 }
 
 .overlay-theme-dark:after {
     background: #0a1227;
-}
+} */
 
 .overlay-opacity-10:after {
     opacity: 0.1;
@@ -3007,9 +3007,9 @@ h6,
     opacity: 0.8;
 }
 
-.overlay-opacity-85:after {
+/* .overlay-opacity-85:after {
     opacity: 0.85;
-}
+} */
 
 .overlay-opacity-90:after {
     opacity: 0.9;

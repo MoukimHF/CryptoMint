@@ -1,4 +1,5 @@
 import React from 'react'
+import AnimatedText from '../../AnimatedText'
 
 function Faqs({faqsRef}) {
     return (
@@ -8,7 +9,8 @@ function Faqs({faqsRef}) {
             <div className="col-lg-6">
               <div className="section-head section-head-s2">
                 <h2 data-delay="0.1" title="FAQS" className="title title-xl roadmap__gelato">
-                  FAQS
+                  <AnimatedText text="FAQS" effect="jump" duration={7}  />
+
                 </h2>
               </div>
             </div>
@@ -80,46 +82,6 @@ function Faqs({faqsRef}) {
                         </div>
                       </div>
                     </div>
-                    {/* <div data-delay="0.5" className="accordion-item accordion-item-s3">
-                      <h5 data-toggle="collapse" data-target="#acc-1-5" className="
-                    accordion-title accordion-title-sm
-                    collapsed
-                  ">
-                        How do I use Metamask?
-                        <span className="accordion-icon" />
-                      </h5>
-                      <div id="acc-1-5" data-parent="#acc-1" className="collapse">
-                        <div className="accordion-content">
-                          <p>
-                            just head straight to the source
-                            <a target="_blank" rel="noreferrer" href="https://metamask.io/">https://metamask.io/</a>
-                          </p>
-                          <p>
-                            How to view ETC Ethereum Classic token on
-                            Metamask
-                            <a target="_blank" rel="noreferrer" href="https://metamask.zendesk.com/hc/en-us/articles/360058809292-How-to-view-ETC-Ethereum-Classic-token-">Click here</a>
-                          </p>
-                        </div>
-                      </div>
-                    </div> */}
-                    {/* <div data-delay="0.5" className="accordion-item accordion-item-s3">
-                      <h5 data-toggle="collapse" data-target="#acc-1-6" className="
-                    accordion-title accordion-title-sm
-                    collapsed
-                  ">
-                        Anything else I should know?
-                        <span className="accordion-icon" />
-                      </h5>
-                      <div id="acc-1-6" data-parent="#acc-1" className="collapse">
-                        <div className="accordion-content">
-                          <p>
-                            Yup, you need some ETC. You can buy it on
-                            Coinbase or even directly from the Metamask
-                            Wallet.
-                          </p>
-                        </div>
-                      </div>
-                    </div> */}
                   </div>
                 </div>
               </div>

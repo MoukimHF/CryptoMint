@@ -1,4 +1,5 @@
 import React from "react";
+import AnimatedText from "../../AnimatedText";
 
 function Founder() {
   return (
@@ -8,7 +9,9 @@ function Founder() {
           <div className="col-lg-12">
             <div className="section-head section-head-s2">
               <h2 title="Bored Ape Collection" className="title title-xl">
-                The Founder
+                
+                <AnimatedText text="The Founder" effect="fadeOut" duration={5} />
+
               </h2>
               <p className="animated shadow-sm" style={{fontSize:"22px"}}>
                 Our founder is Ali Essa, a young college student that is

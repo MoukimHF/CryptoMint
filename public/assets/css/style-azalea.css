@@ -3005,9 +3005,9 @@ h6,
     opacity: 0.8;
 }
 
-.overlay-opacity-85:after {
+/* .overlay-opacity-85:after {
     opacity: 0.85;
-}
+} */
 
 .overlay-opacity-90:after {
     opacity: 0.9;

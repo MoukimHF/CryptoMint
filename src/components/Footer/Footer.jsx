@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
     return (
-        <footer className="nk-footer-bar section section-s tc-light">
+        <footer className="nk-footer-bar section section-s tc-light" style={{background:"#0a1227"}}>
         <div className="container container-xxl">
           <div className="row gutter-vr-10px">
             <div className="col-lg-6 order-lg-last text-lg-right">
@@ -21,7 +21,7 @@ function Footer() {
             <div className="col-lg-6">
               <div className="copyright-text copyright-text-s2">
                 Copyright © 2021. Powered by
-                <a href="https://ethereumclassic.org/">EthereumClassic</a>.
+                <a href="/">Classic Pharaohs</a>.
               </div>
             </div>
           </div>

@@ -25,7 +25,7 @@ function Header({roadmapScroll, faqsScroll, contactScroll}) {
                     ">Home</a>
                     </li>
                     <li className="menu-item">
-                      <a href="/" className="menu-link nav-link page-scroll">All Bored pharaohs</a>
+                      <a href="/" className="menu-link nav-link page-scroll">All Classic pharaohs</a>
                     </li>
                     <li className="menu-item">
                       <a type="button" onClick={roadmapScroll} className="menu-link nav-link page-scroll">Roadmap</a>

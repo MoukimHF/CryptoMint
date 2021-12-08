@@ -1,8 +1,8 @@
 import React from "react";
 
-function Roadmap2() {
+function Roadmap2({roadmapRef}) {
   return (
-    <div id="roadmapComponent">
+    <div id="roadmapComponent" ref={roadmapRef}>
       <h1 id="roadmapCompTitle">RoadMap</h1>
       <div >
         <div className="container">
@@ -10,24 +10,33 @@ function Roadmap2() {
             <div style={{width:"100%",maxWidth:"100%"}}>
               <div className="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                 <div className="roadmapTextContainer">
-                  <h2 className="roadmapTitle">Presale</h2>
+                  <h2 className="roadmapTitle">Build & Design</h2>
                   <p className="roadmapText">
-                    Collectors will be able to grab llamas at a special
-                    discounted price with no mint limit.
+                   Build and design the website and program the smart contract 
                   </p>
-                  <p className="roadmapText">5,000 llamas will be released.</p>
+                  {/* <p className="roadmapText">5,000 llamas will be released.</p> */}
                 </div>
               </div>{" "}
             </div>
             <div style={{width:"100%",maxWidth:"100%"}}>
               <div className="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                 <div className="roadmapTextContainer">
-                  <h2 className="roadmapTitle">Launch day</h2>
+                  <h2 className="roadmapTitle">Community</h2>
                   <p className="roadmapText">
-                    If you missed out on the presale, don’t worry!
+                    Build the ETC Pharaohs community twitter account and receive feedback
                   </p>
-                  <p className="roadmapText">
+                  {/* <p className="roadmapText">
                     5,000 more llamas will be released on launch day.
+                  </p> */}
+                </div>
+              </div>{" "}
+            </div>
+            <div style={{width:"100%",maxWidth:"100%"}}>
+              <div className="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                <div className="roadmapTextContainer">
+                  <h2 className="roadmapTitle">Launch Minting</h2>
+                  <p className="roadmapText">
+                  Launch minting to all of our 5,000 Pharaohs on 12/12
                   </p>
                 </div>
               </div>{" "}
@@ -35,34 +44,34 @@ function Roadmap2() {
             <div style={{width:"100%",maxWidth:"100%"}}>
               <div className="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                 <div className="roadmapTextContainer">
-                  <h2 className="roadmapTitle">Videogame drop</h2>
+                  <h2 className="roadmapTitle">Sold Out</h2>
                   <p className="roadmapText">
-                    At 75%, we plan on launching development of our game world.
-                    We cannot express enough how diverse our game launches will
-                    be. Our goal is to create something for everyone to enjoy
-                    every quarter. NFT holders will instantly gain freebies in
-                    games once launched.
+                  Completely sold out of Classic Pharaohs 
                   </p>
+                
                 </div>
-              </div>{" "}
+              </div>
             </div>
             <div style={{width:"100%",maxWidth:"100%"}}>
               <div className="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                 <div className="roadmapTextContainer">
-                  <h2 className="roadmapTitle">Animated short films</h2>
+                  <h2 className="roadmapTitle">Giveaways</h2>
                   <p className="roadmapText">
-                    We aren’t called the drama club for nothing. -
-                    Llamadramaclub - plans on entertaining you with animated
-                    shorts that will make you laugh, - and hopefully leave you
-                    wanting more. NFT holders will gain early access to each
-                    episode before - general public
+                  Hold Giveaways for the people that could not get a pharaoh
                   </p>
+                
+                </div>
+              </div>
+            </div>
+
+            <div style={{width:"100%",maxWidth:"100%"}}>
+              <div className="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                <div className="roadmapTextContainer">
+                  <h2 className="roadmapTitle">Charity</h2>
                   <p className="roadmapText">
-                    Llamadramaclub plans on entertaining you with animated
-                    shorts that will make you laugh, and hopefully leave you
-                    wanting more. NFT holders will gain early access to each
-                    episode before general public
+                  Donate 10% of the proceedings to a charity or a cause that the ETCarmy chooses 
                   </p>
+                
                 </div>
               </div>
             </div>
