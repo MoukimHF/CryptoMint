@@ -3,7 +3,7 @@ import AnimatedText from "../../AnimatedText";
 
 function Roadmap({roadmapRef}) {
   return (
-    <div id="roadmap" className="section" ref={roadmapRef}>
+    <div  ref={roadmapRef} id="roadmap" className="section">
       <div className="container">
         <div className="row justify-content-center text-center">
           <div className="col-lg-6">

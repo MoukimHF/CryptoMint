@@ -56,7 +56,7 @@ const renderer = ({days, hours, minutes, seconds, completed }) => {
     }
   };
 function CountdownComp() {
-  const {total,days ,hours} = calcTimeDelta(new Date("2021-12-13T00:00:00.000Z"));
+  const {total,days ,hours} = calcTimeDelta(new Date("2021-12-12T00:00:00.000Z"));
   return (
     <Countdown
     date={Date.now() + total}

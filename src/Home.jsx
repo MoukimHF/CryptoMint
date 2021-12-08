@@ -12,9 +12,9 @@ function Home() {
   const faqsRef = useRef(null);
   const contactRef = useRef(null);
 
-  const roadmapScroll = () => roadmapRef.current.scrollIntoView();
-  const faqsScroll = () => faqsRef.current.scrollIntoView();
-  const contactScroll = () => contactRef.current.scrollIntoView();
+  const roadmapScroll = () => roadmapRef.current?.scrollIntoView();
+  const faqsScroll = () => faqsRef.current?.scrollIntoView();
+  const contactScroll = () => contactRef.current?.scrollIntoView();
   return (
     <Layout
       roadmapScroll={roadmapScroll}
@@ -28,7 +28,7 @@ function Home() {
         <Fade left>
         <Main />
         </Fade>
-        <About />
+        <About roadmapRef={roadmapRef} faqsRef={faqsRef} contactRef={contactRef}  />
       </div>
     </Layout>
   );

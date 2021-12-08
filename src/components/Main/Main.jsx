@@ -1,5 +1,7 @@
 import React from "react";
 import Countdown from "../Countdown/Countdown";
+import Connect from "../Connect";
+
 function Main() {
 
   return (
@@ -22,13 +24,8 @@ function Main() {
                   Classic Pharaohs are now on Ethereum Classic! Don't miss
                   the chance to own them
                 </p>
-                <a
-                  target="_blank"
-                  rel="noreferrer"
-                  className="btn mint_now text-sm md:text-xl font-light text-center px-2 py-4 md:px-8 md:py-6 rounded uppercase"
-                >
-                  Mint
-                </a>
+           
+                <Connect />
                 <Countdown />
                 <div className="pt-2 text-center">
                   <div

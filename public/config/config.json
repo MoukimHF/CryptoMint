@@ -1,11 +1,11 @@
 {
-  "CONTRACT_ADDRESS": "0xB4B64ca538F2438f35D8EF8C05a3a0010474F5dC",
-  "OWNER_ADDRESS": "0xBdC3d16895a5257088eCfdbb15d06744748410F4",
-  "SCAN_LINK": "https://etherscan.io/address/0xB4B64ca538F2438f35D8EF8C05a3a0010474F5dC",
+  "CONTRACT_ADDRESS": "0x5CeF55D2ed53Bd845453f4F9e62d62C9D1253aE1",
+  "OWNER_ADDRESS": "0xF4c0874a37bfd6C2cCf37ebA62278366D9f3B9fa",
+  "SCAN_LINK": "https://etherscan.io/address/0x5CeF55D2ed53Bd845453f4F9e62d62C9D1253aE1",
   "NETWORK": {
-    "NAME": "Rinkeby Test Network",
+    "NAME": "ETHEREUM",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "Crypto clone",
   "SYMBOL": "Clone",
